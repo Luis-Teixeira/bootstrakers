@@ -235,19 +235,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/masters\/bootstrap\/less\/grid.less" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/masters\/bootstrap\/less\/grid.less",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/masters\/bootstrap\/less\/grid.css",
-      "strictImports" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
-    },
     "\/masters\/bootstrap\/less\/code.less" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -257,6 +244,19 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/masters\/bootstrap\/less\/code.css",
+      "strictImports" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
+    },
+    "\/masters\/bootstrap\/less\/grid.less" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/masters\/bootstrap\/less\/grid.less",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/masters\/bootstrap\/less\/grid.css",
       "strictImports" : 0,
       "fileType" : 1,
       "debugStyle" : 0
@@ -349,19 +349,6 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/masters\/bootstrap\/less\/pagination.less" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/masters\/bootstrap\/less\/pagination.less",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/masters\/bootstrap\/less\/pagination.css",
-      "strictImports" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
-    },
     "\/masters\/bootstrap\/less\/tooltip.less" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -371,6 +358,19 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/masters\/bootstrap\/less\/tooltip.css",
+      "strictImports" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
+    },
+    "\/masters\/bootstrap\/less\/pagination.less" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/masters\/bootstrap\/less\/pagination.less",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/masters\/bootstrap\/less\/pagination.css",
       "strictImports" : 0,
       "fileType" : 1,
       "debugStyle" : 0
@@ -385,6 +385,19 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/masters\/bootstrap\/js\/popover-min.js",
       "fileType" : 64
+    },
+    "\/masters\/bootstrap\/less\/bootstrap.less" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/masters\/bootstrap\/less\/bootstrap.less",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/masters\/bootstrap\/less\/bootstrap.css",
+      "strictImports" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
     },
     "\/masters\/bootstrap\/js\/tooltip.js" : {
       "ignoreWasSetByUser" : 0,
@@ -407,19 +420,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/masters\/bootstrap\/js\/tests\/unit\/affix-min.js",
       "fileType" : 64
-    },
-    "\/masters\/bootstrap\/less\/bootstrap.less" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/masters\/bootstrap\/less\/bootstrap.less",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/masters\/bootstrap\/less\/bootstrap.css",
-      "strictImports" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
     },
     "\/masters\/bootstrap\/js\/transition.js" : {
       "ignoreWasSetByUser" : 0,
@@ -494,15 +494,6 @@
       "strictImports" : 0,
       "fileType" : 1,
       "debugStyle" : 0
-    },
-    "\/main-min.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/main-min.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/masters\/bootstrap\/js\/carousel.js" : {
       "ignoreWasSetByUser" : 0,
@@ -679,15 +670,6 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/masters\/less\/main.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/masters\/less\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/masters\/bootstrap\/js\/tests\/unit\/scrollspy.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -769,17 +751,6 @@
       "outputAbbreviatedPath" : "\/masters\/bootstrap\/js\/tests\/unit\/tooltip-min.js",
       "fileType" : 64
     },
-    "\/masters\/bootstrap\/js\/tests\/unit\/dropdown.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/masters\/bootstrap\/js\/tests\/unit\/dropdown.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/masters\/bootstrap\/js\/tests\/unit\/dropdown-min.js",
-      "fileType" : 64
-    },
     "\/masters\/bootstrap\/js\/tests\/unit\/popover.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -789,6 +760,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/masters\/bootstrap\/js\/tests\/unit\/popover-min.js",
+      "fileType" : 64
+    },
+    "\/masters\/bootstrap\/js\/tests\/unit\/dropdown.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/masters\/bootstrap\/js\/tests\/unit\/dropdown.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/masters\/bootstrap\/js\/tests\/unit\/dropdown-min.js",
       "fileType" : 64
     },
     "\/masters\/bootstrap\/js\/dropdown.js" : {
@@ -876,7 +858,7 @@
     },
     "\/css\/main-min.css" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/css\/main-min.css",
@@ -891,7 +873,7 @@
       "inputAbbreviatedPath" : "\/masters\/less\/main.less",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/main-min.css",
+      "outputAbbreviatedPath" : "\/css\/main-min.css",
       "strictImports" : 0,
       "fileType" : 1,
       "debugStyle" : 0
