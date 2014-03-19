@@ -1,6 +1,4 @@
-
-//@codekit-prepend "../bootstrap/js/transition.js";
-//@codekit-prepend "../bootstrap/js/collapse.js";
+//@codekit-prepend "modernizr.borderradius-flexbox-flexboxlegacy-rgba.js";
 
 jQuery(document).ready(function($) {
 	
